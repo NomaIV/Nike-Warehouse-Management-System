@@ -1,6 +1,6 @@
 # Nike Warehouse Management System
 
-This capstone project simulates a Nike warehouse management system using Python. It allows store managers to perform stock-taking, optimise delivery times, and manage inventory efficiently.
+This OOP capstone project simulates a Nike warehouse management system using Python. It allows store managers to perform stock-taking, optimise delivery times, and manage inventory efficiently.
 
 ## Project Overview
 As a store manager for a Nike warehouse, you can use this Python program to:
@@ -26,7 +26,7 @@ The program reads data from `inventory.txt`, processes it, and provides interact
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nike-warehouse.git
+   git clone https://github.com/NomaIV/nike-warehouse.git
    cd L1T30
    ```
 
